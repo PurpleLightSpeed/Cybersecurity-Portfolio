@@ -11,8 +11,8 @@ I'm committed to problem-solving and collaborating with teams to ensure privacy 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| ------------------------------------          | <a href="https://google.com">Detection Lab</a>|
-| ------------------------------------       | <a href="https://google.com">Detection Lab</a>|
+| Vitual Machine Installation         | <a href="https://github.com/PurpleLightSpeed/Virtual-Linux-Security-Lab">Virtual Linux Security Lab</a> |
+| ------------------------------------       | -------------------------------------|
 | ------------------------------------               | ------------------------------------      |
 | ------------------------------------            | ------------------------------------      |
 | ------------------------------------                       | ------------------------------------      |
@@ -28,4 +28,4 @@ I'm committed to problem-solving and collaborating with teams to ensure privacy 
 ## Certifications
 
 ## Projects
-- Test Project
+- <a href="https://github.com/PurpleLightSpeed/Virtual-Linux-Security-Lab">Virtual Linux Security Lab</a>
