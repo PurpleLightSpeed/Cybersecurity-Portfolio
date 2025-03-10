@@ -20,9 +20,10 @@ I'm committed to problem-solving and collaborating with teams to ensure privacy 
 
 ## Tools
 
-### Third-Party Risk Management
+### Governance, Risk and Compliance
 <div>
   <a href="https://www.upguard.com/"><img src="https://img.shields.io/badge/-UpGuard-1679A7?&style=for-the-badge&logo=UpGuard&logoColor=white" /></a>
+  <a href="https://www.knowbe4.com/"><img src="https://img.shields.io/badge/-KnowBe4-1679A7?&style=for-the-badge&logo=KnowBe4&logoColor=white" /></a>
 </div>
 
 ## Certifications
