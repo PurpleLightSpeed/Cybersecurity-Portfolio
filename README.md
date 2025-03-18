@@ -30,6 +30,7 @@ I'm committed to problem-solving and collaborating with teams to ensure privacy 
 
 ## Projects
 - <a href="https://github.com/PurpleLightSpeed/Virtual-Linux-Security-Lab">Virtual Linux Security Lab</a>
+- <a href="https://github.com/PurpleLightSpeed/Password-Cracking-on-Linux">Password Cracking w/ Linux</a> 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
