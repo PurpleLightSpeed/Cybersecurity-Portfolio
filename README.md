@@ -14,7 +14,7 @@ I'm committed to problem-solving and collaborating with teams to ensure privacy 
 | Virtual Machine Installation | <a href="https://github.com/PurpleLightSpeed/Virtual-Linux-Security-Lab">Virtual Linux Security Lab</a>  |
 | Password Cracking w/ Linux   | <a href="https://github.com/PurpleLightSpeed/Password-Cracking-on-Linux">Password Cracking w/ Linux</a>  |
 | Create a Static Website Using Amazon S3 | <a href="https://github.com/PurpleLightSpeed/Create-a-Static-Website-Using-Amazon-S3-">Create a Static Website Using Amazon S3</a> |
-| -----------------------------| ------------------------------------      |
+| Create Amazon EC2 Instances| ------------------------------------      |
 | -----------------------------| ------------------------------------      |
 | -----------------------------|-----------------|
 
